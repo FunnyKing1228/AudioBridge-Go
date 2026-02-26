@@ -1,2 +1,2 @@
 # AudioBridge-Go
-A high-performance audio streaming bridge built with Go and WebRTC. Stream real-time audio from your mobile browser directly to a Discord voice channel with ultra-low latency.
+Stream music from your iPhone directly to a Discord voice channel — pure digital audio via WebRTC, no microphone, no speaker, zero noise.
